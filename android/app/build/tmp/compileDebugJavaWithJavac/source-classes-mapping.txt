@@ -1,0 +1,14 @@
+com/appcameras/ReactNativeFlipper.java
+ com.appcameras.ReactNativeFlipper
+ com.appcameras.ReactNativeFlipper$1
+ com.appcameras.ReactNativeFlipper$2
+ com.appcameras.ReactNativeFlipper$2$1
+com/appcameras/BuildConfig.java
+ com.appcameras.BuildConfig
+com/appcameras/MainActivity.java
+ com.appcameras.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/appcameras/MainApplication.java
+ com.appcameras.MainApplication
+ com.appcameras.MainApplication$1
