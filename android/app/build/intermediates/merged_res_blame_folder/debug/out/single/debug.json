@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -14,6 +10,18 @@
     {
         "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_background_splash.xml.flat",
+        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap\\background_splash.xml"
     },
     {
         "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -28,8 +36,8 @@
         "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap_icon.png.flat",
+        "source": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\src\\main\\res\\mipmap\\icon.png"
     },
     {
         "merged": "D:\\Portifolio - Giliardi\\appCameras\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
