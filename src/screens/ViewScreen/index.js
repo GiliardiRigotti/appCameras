@@ -3,6 +3,7 @@ import { View, StyleSheet, Text, BackHandler, StatusBar } from 'react-native';
 import { LivePlayer } from "react-native-live-stream";
 import Orientation from 'react-native-orientation';
 import 'react-native-gesture-handler';
+import { styles } from './styles';
 
 export function ViewCamera({ navigation, route }) {
     const { url, title } = route.params;
@@ -34,12 +35,3 @@ export function ViewCamera({ navigation, route }) {
         </View>
     );
 }
-const styles = StyleSheet.create({
-    video: {
-        width:"100%",
-        height:"100%",
-    },
-    background:{
-        backgroundColor:'black',
-    }
-});

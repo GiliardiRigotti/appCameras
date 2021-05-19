@@ -7,8 +7,8 @@ com/appcameras/BuildConfig.java
  com.appcameras.BuildConfig
 com/appcameras/MainActivity.java
  com.appcameras.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
 com/appcameras/MainApplication.java
  com.appcameras.MainApplication
  com.appcameras.MainApplication$1
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
